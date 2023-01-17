@@ -1,0 +1,4 @@
+include:
+  - project: 'banyan-security/go-lint'
+    ref: 'staticcheckgitlab'
+    file: 'golangci.yml'
