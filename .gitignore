@@ -1,3 +1,4 @@
 .idea/*
 staticcheck.json
 gl-code-quality-report.json
+golint-convert
